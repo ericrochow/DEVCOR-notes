@@ -20,4 +20,15 @@
 
 
 
+## Others topics not listed in requirements
 
+### Git squash
+
+
+
+### Git cherrypicking
+
+
+
+
+### Git garbage collection
